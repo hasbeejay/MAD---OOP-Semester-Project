@@ -1,0 +1,1 @@
+g++ -std=c++17 -o MAD main.cpp AuthManager.cpp DiaryNote.cpp NoteManager.cpp PinNote.cpp ProjectNote.cpp SimpleNote.cpp ToDoNote.cpp
